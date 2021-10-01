@@ -36,6 +36,8 @@ Data is passed through <B>additionalFlows.json</B> present in the <I>fixtures fo
 
 <B><U>Defect:</B></U> Additional flow 1 is failing as previous search results are not removed. When you search for a valid planet or character and you get one or more results for it, clear the “Search form” and hit the Search button again, the previous search list stays and hence it's a defect. If you run the scenario, you will also get a screenshot of the failed steps.
 
+<B><U>Note:</B></U> A defect report excel sheet is also uploaded in this project folder. Name of the excel sheet: <B><U>Star Wars Search_Defect Report v1.0.xlsx</B></U>
+
 <B>Pre-requisites to this solution include</B>
 
 1. Download and install Node.js: https://nodejs.org/en/download/
