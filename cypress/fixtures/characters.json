@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "gender": "male",
+        "birthYear": "19BBY",
+        "eyeColor": "blue",
+        "skinColor": "fair"
+    },
+    {
+        "name": "Leia Organa",
+        "gender": "female",
+        "birthYear": "19BBY",
+        "eyeColor": "brown",
+        "skinColor": "light"
+    },
+    {
+        "name": "R2-D2",
+        "gender": "n/a",
+        "birthYear": "33BBY",
+        "eyeColor": "red",
+        "skinColor": "white, blue"
+    },
+    {
+        "name": "invalidData",
+        "result": "Not found."
+    }
+]

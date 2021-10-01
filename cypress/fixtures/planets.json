@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Alderaan",
+        "population": "2000000000",
+        "climate": "temperate",
+        "gravity": "1 standard"
+    },
+    {
+        "name": "Hoth",
+        "population": "unknown",
+        "climate": "frozen",
+        "gravity": "1.1 standard"
+    },
+    {
+        "name": "invalidData",
+        "result": "Not found."
+    }
+]

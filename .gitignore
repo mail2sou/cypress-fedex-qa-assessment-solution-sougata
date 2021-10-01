@@ -1,0 +1,13 @@
+node_modules
+
+# these cause more harm than good
+# when working with contributors
+package-lock.json
+
+# cypress recordings during a test run are temporary files
+/cypress/videos/
+/cypress/screenshots/
+
+# report folders are ignored as these will be generated on each run
+mochawesome-report
+assets

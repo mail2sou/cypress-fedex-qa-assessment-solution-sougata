@@ -1,0 +1,8 @@
+{
+    "name": "Alderaan",
+    "population": "2000000000",
+    "climate": "temperate",
+    "gravity": "1 standard",
+    "multipleSearchCharacter": "Dar",
+    "multipleSearchPlanet": "Ale"
+}
